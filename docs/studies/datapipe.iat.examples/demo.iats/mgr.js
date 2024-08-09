@@ -17,7 +17,7 @@ define(['managerAPI', 'https://cdn.jsdelivr.net/gh/minnojs/minno-datapipe@1.*/da
         weight: [{
             type: 'time',
             name: 'weight',
-            scriptUrl: 'weight.js'
+            scriptUrl: 'https://baranan.github.io/minno-tasks/studies/datapipe.iat.examples/demo.iats/weight.js'
 		
         }]
     });
